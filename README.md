@@ -52,7 +52,6 @@ O modelo conceitual do **VerityMoney API** é estruturado com os seguintes princ
 - **Saldo Diário:** Representa o valor consolidado dos lançamentos financeiros em um determinado dia.
 - **Relatório Financeiro:** Documento gerado com base nos cálculos dos lançamentos, fornecendo um panorama da situação financeira do comerciante.
 
-![Modelo Conceitual](https://github.com/warriorsyn/VerityMoney-api/assets/39230805/833fa322-70bb-4000-9a02-087ee349b0ba)
 
 ---
 ## Execução do Projeto
